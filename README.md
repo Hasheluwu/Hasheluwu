@@ -1,10 +1,10 @@
 👋 Hi, I'm Hashel. I'm a junior programmer who loves solving problems through code. Right now, I'm focused on Python and especially on backend development.
 
 - I recently built a full-stack website using Python (Flask) and SQLite, and I'm continuing to grow my portfolio.
+  
+- I made along other people a Computer Vision Sign Language Detector built with TensorFlow/Mediapipe Hands and Numpy(etc.) — a soon to be free and open-source tool designed to help others and promote accessibility.
 
 🚀 Upcoming Projects
-
-- A Computer Vision Sign Language Detector built with TensorFlow/Mediapipe Hands and Numpy — a free and open-source tool designed to help others and promote accessibility.
 
 - A Java desktop Inventory System demo.
 
